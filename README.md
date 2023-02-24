@@ -4,6 +4,7 @@ Here is the preview of the applications:
 
 Tech-Stack used:
 * React.js
+* Redux-toolkit
 * Tailwind CSS
 * YouTube Data API
 
